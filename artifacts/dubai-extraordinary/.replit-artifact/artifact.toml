@@ -1,0 +1,24 @@
+kind = "mobile"
+previewPath = "/dubai-extraordinary/"
+title = "Dubai Extraordinary"
+description = "A premium mobile discovery app for exploring Dubai through iconic places, curated experiences, exclusive offers, events, and personal itineraries."
+version = "1.0.0"
+id = "artifacts/dubai-extraordinary"
+router = "expo-domain"
+
+[[services]]
+name = "expo"
+ensurePreviewReachable = "/status"
+paths = [ "/dubai-extraordinary/" ]
+localPort = 25734
+
+[services.development]
+run = "pnpm --filter @workspace/dubai-extraordinary run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/dubai-extraordinary", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/dubai-extraordinary", "run", "serve" ]
+
+[services.env]
+PORT = "25734"
+BASE_PATH = "/dubai-extraordinary/"

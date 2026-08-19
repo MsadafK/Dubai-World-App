@@ -1,0 +1,1416 @@
+# 🇦🇪 DUBAI — WORLD-CLASS PROMOTION SUPER-APP
+
+## ROLE
+
+You are a **senior product architect, UX/UI designer, frontend engineer, backend engineer, database architect, and QA engineer**.
+
+Your task is to design and build a **world-class Dubai promotion and discovery platform**.
+
+This is NOT a basic tourism website.
+
+The final product should feel like a premium combination of:
+
+* Visit Dubai
+* Airbnb
+* Booking.com
+* Tripadvisor
+* Groupon
+* Google Maps
+* A luxury lifestyle platform
+* A business marketplace
+* A lead-generation platform
+
+But DO NOT copy their branding, layouts, or UI. Create a completely original product identity.
+
+### PRODUCT VISION
+
+The goal is to create a digital platform so impressive, polished, immersive, useful, and premium that a Dubai tourism authority, major Dubai business, investor, or government stakeholder could look at it and think:
+
+**"Wow. This is how Dubai should be represented digitally."**
+
+The product should communicate:
+
+**Luxury + Innovation + Discovery + Business + Entertainment + Hospitality + Future**
+
+---
+
+# 1. CORE PRODUCT
+
+The application must combine these five major capabilities into one ecosystem:
+
+### A. Dubai Tourism Platform
+
+Help tourists discover Dubai.
+
+Users should be able to explore:
+
+* Attractions
+* Landmarks
+* Beaches
+* Hotels
+* Resorts
+* Restaurants
+* Cafes
+* Shopping destinations
+* Theme parks
+* Desert experiences
+* Adventure activities
+* Family activities
+* Nightlife
+* Cultural experiences
+* Luxury experiences
+* Events
+* Hidden gems
+* Neighborhoods
+
+---
+
+### B. Deals & Promotions Platform
+
+Businesses should be able to promote:
+
+* Discounts
+* Limited-time offers
+* Flash deals
+* Weekend deals
+* Seasonal campaigns
+* Hotel packages
+* Restaurant offers
+* Activity bundles
+* Family packages
+* Couple packages
+* Luxury packages
+* Tourist packages
+* Early-bird offers
+
+Create a dedicated **Deals & Offers** experience.
+
+Each offer should support:
+
+* Title
+* Description
+* Business
+* Original price
+* Discounted price
+* Discount percentage
+* Validity
+* Terms & conditions
+* Location
+* Category
+* Images
+* CTA
+* Availability
+* Featured status
+
+---
+
+### C. Dubai Business Marketplace
+
+Dubai businesses should be able to create and manage their presence on the platform.
+
+Business categories include:
+
+* Hotels
+* Restaurants
+* Cafes
+* Tour operators
+* Attractions
+* Shopping
+* Entertainment
+* Spas
+* Salons
+* Transportation
+* Events
+* Luxury services
+* Real estate
+* Travel agencies
+* Other tourism-related businesses
+
+Businesses should have their own dashboard where they can:
+
+* Create business profile
+* Upload images
+* Add location
+* Add contact information
+* Add website/social links
+* Create promotions
+* Create events
+* Manage leads
+* View analytics
+* Manage bookings/enquiries
+* View customer interactions
+* Upgrade subscription
+* Manage featured listings
+
+---
+
+### D. Dubai Guide & Discovery
+
+Create a powerful discovery engine.
+
+Users should be able to discover Dubai based on:
+
+* Category
+* Location
+* Budget
+* Rating
+* Experience type
+* Family-friendly
+* Couple-friendly
+* Luxury
+* Adventure
+* Indoor/outdoor
+* Duration
+* Time of day
+* Distance
+* Popularity
+* Deals available
+
+Create curated collections such as:
+
+* "Dubai in 24 Hours"
+* "Best of Dubai"
+* "Luxury Dubai"
+* "Dubai on a Budget"
+* "Family Weekend"
+* "Romantic Dubai"
+* "Dubai After Dark"
+* "Hidden Dubai"
+* "Instagrammable Dubai"
+* "Adventure Dubai"
+* "Foodie Dubai"
+* "Shopping in Dubai"
+
+---
+
+### E. Lead Generation Platform
+
+The platform must help Dubai businesses generate qualified leads.
+
+Users should be able to:
+
+* Request information
+* Request a quote
+* Contact business
+* Submit enquiry
+* Request booking
+* Request callback
+* Save business
+* Share business
+
+Businesses should receive these leads inside their dashboard.
+
+Lead information should include:
+
+* User name
+* Email
+* Phone
+* Requirement
+* Preferred date
+* Budget
+* Number of people
+* Source
+* Timestamp
+* Lead status
+
+Lead statuses:
+
+* New
+* Contacted
+* Qualified
+* Converted
+* Lost
+
+---
+
+# 2. USER TYPES
+
+Create three primary roles.
+
+## USER / TOURIST
+
+Can:
+
+* Browse Dubai
+* Search
+* Filter
+* View businesses
+* View attractions
+* View offers
+* View events
+* Save favorites
+* Create itinerary
+* Submit enquiries
+* Request bookings
+* View booking/enquiry history
+* Manage profile
+* Receive notifications
+
+---
+
+## BUSINESS
+
+Can:
+
+* Register business
+* Create business profile
+* Add locations
+* Upload photos
+* Create offers
+* Create events
+* Manage enquiries
+* Manage leads
+* View analytics
+* Manage bookings
+* Respond to customers
+* Manage subscription
+* Promote listings
+
+---
+
+## ADMIN
+
+Create a powerful admin dashboard.
+
+Admin should be able to:
+
+* Manage users
+* Manage businesses
+* Approve/reject businesses
+* Manage listings
+* Manage offers
+* Manage events
+* Manage categories
+* Manage destinations
+* Manage featured content
+* Manage leads
+* Manage reports
+* Manage subscriptions
+* View platform analytics
+* Moderate reviews
+* Manage homepage content
+* Manage promotional campaigns
+
+---
+
+# 3. BRAND & VISUAL IDENTITY
+
+Create a completely original premium visual identity inspired by Dubai.
+
+DO NOT make it look like a generic travel template.
+
+The visual language should communicate:
+
+**Dubai = Luxury + Architecture + Technology + Energy + Future**
+
+Use:
+
+* Premium typography
+* Large cinematic imagery
+* Elegant spacing
+* Strong visual hierarchy
+* Sophisticated cards
+* Subtle gradients
+* Glass effects where appropriate
+* Smooth transitions
+* Micro-interactions
+* Premium shadows
+* Beautiful hover states
+* Scroll animations
+* Elegant loading states
+
+Avoid:
+
+* Excessive gradients
+* Cheap-looking glassmorphism
+* Generic Bootstrap appearance
+* Overloaded dashboards
+* Excessive rounded cards
+* Random animations
+* Poor typography
+* Template-like layouts
+
+The design must feel **expensive**.
+
+---
+
+# 4. HOMEPAGE
+
+Create an extraordinary homepage.
+
+## HERO SECTION
+
+Large cinematic Dubai visual.
+
+Potential hero message:
+
+**"Discover Dubai. Experience Extraordinary."**
+
+Supporting text:
+
+"Explore iconic places, unforgettable experiences, exclusive offers and the businesses that make Dubai extraordinary."
+
+Primary CTA:
+
+**Explore Dubai**
+
+Secondary CTA:
+
+**Discover Offers**
+
+Include a sophisticated search interface:
+
+**"What do you want to experience in Dubai?"**
+
+Search examples:
+
+* Burj Khalifa
+* Desert safari
+* Luxury hotels
+* Restaurants
+* Shopping
+* Things to do
+
+---
+
+# 5. HOMEPAGE SECTIONS
+
+Build the homepage with carefully designed sections:
+
+### Hero
+
+### Trending in Dubai
+
+Show popular attractions and experiences.
+
+### Explore Dubai
+
+Categories:
+
+* Stay
+* Eat
+* Shop
+* Experience
+* Explore
+* Events
+
+### Exclusive Deals
+
+Beautiful promotional cards.
+
+### Iconic Dubai
+
+Feature:
+
+* Burj Khalifa
+* Dubai Marina
+* Palm Jumeirah
+* Dubai Mall
+* Museum of the Future
+* Dubai Frame
+* Desert experiences
+
+### Curated Experiences
+
+Premium editorial collections.
+
+### Events
+
+Upcoming events.
+
+### Business Spotlight
+
+Highlight premium Dubai businesses.
+
+### Build Your Dubai Experience
+
+Interactive itinerary builder.
+
+### Why Dubai?
+
+Create an emotionally compelling visual section communicating Dubai's:
+
+* Innovation
+* Luxury
+* Culture
+* Hospitality
+* Adventure
+* Future
+
+### Newsletter / Travel Updates
+
+Allow users to subscribe.
+
+### Footer
+
+Include:
+
+* Explore
+* Businesses
+* Deals
+* Events
+* About
+* Partner with us
+* Business login
+* Help
+* Privacy
+* Terms
+
+---
+
+# 6. SEARCH EXPERIENCE
+
+Build a powerful global search.
+
+Search across:
+
+* Businesses
+* Attractions
+* Hotels
+* Restaurants
+* Activities
+* Offers
+* Events
+* Destinations
+
+Include:
+
+* Instant suggestions
+* Search history
+* Popular searches
+* Categories
+* Recent searches
+
+Create a dedicated search results page.
+
+---
+
+# 7. FILTERING
+
+Users should be able to filter results by:
+
+* Category
+* Location
+* Price
+* Rating
+* Distance
+* Open now
+* Deals
+* Family-friendly
+* Luxury
+* Budget
+* Indoor
+* Outdoor
+
+Make filters work properly.
+
+---
+
+# 8. BUSINESS DETAIL PAGE
+
+Create an extremely premium business profile.
+
+Include:
+
+* Image gallery
+* Business name
+* Rating
+* Category
+* Location
+* Description
+* Opening hours
+* Contact
+* Website
+* Social links
+* Map
+* Offers
+* Events
+* Reviews
+* Similar businesses
+* CTA
+
+Primary actions:
+
+**Book**
+
+**Enquire**
+
+**Get Offer**
+
+**Call**
+
+**Save**
+
+---
+
+# 9. DEAL DETAIL PAGE
+
+Create a visually powerful deal page.
+
+Show:
+
+* Business
+* Deal title
+* Images
+* Discount
+* Price
+* Validity
+* Terms
+* Location
+* Availability
+* Booking/enquiry CTA
+
+Use urgency carefully where appropriate:
+
+"Offer ends in..."
+
+Do not use fake countdowns.
+
+---
+
+# 10. EVENTS
+
+Create an events discovery experience.
+
+Each event should include:
+
+* Event name
+* Images
+* Date
+* Time
+* Location
+* Description
+* Category
+* Price
+* Organizer
+* Booking CTA
+
+Allow filtering by:
+
+* Today
+* This week
+* This month
+* Category
+* Location
+* Free
+* Paid
+
+---
+
+# 11. ITINERARY BUILDER
+
+Create an interactive itinerary feature.
+
+Users can:
+
+* Select dates
+* Add attractions
+* Add restaurants
+* Add activities
+* Organize days
+* Reorder activities
+* View estimated schedule
+* Save itinerary
+
+Example:
+
+### Day 1
+
+Burj Khalifa → Dubai Mall → Dubai Fountain → Dinner
+
+### Day 2
+
+Palm Jumeirah → Atlantis → Marina → Yacht experience
+
+The UI should feel premium and intuitive.
+
+---
+
+# 12. MAP EXPERIENCE
+
+Design the architecture so map integration can be added.
+
+The map should support:
+
+* Businesses
+* Attractions
+* Restaurants
+* Hotels
+* Offers
+* Events
+
+Use environment variables for map API keys.
+
+Do not hard-code API keys.
+
+If a real map API is unavailable during development, create a clean abstraction/mock implementation so the feature can later be connected without rewriting the application.
+
+---
+
+# 13. AUTHENTICATION
+
+Implement authentication architecture for:
+
+* Email/password
+* Google login if supported
+
+Support:
+
+* User
+* Business
+* Admin
+
+Include:
+
+* Login
+* Signup
+* Forgot password
+* Reset password
+* Logout
+* Protected routes
+* Role-based authorization
+
+---
+
+# 14. USER DASHBOARD
+
+Create:
+
+### Overview
+
+### My Profile
+
+### Favorites
+
+### My Itineraries
+
+### My Enquiries
+
+### My Bookings
+
+### Notifications
+
+### Settings
+
+The dashboard should be clean and premium, not a generic admin template.
+
+---
+
+# 15. BUSINESS DASHBOARD
+
+Create a professional SaaS-style dashboard.
+
+Sections:
+
+### Overview
+
+Show:
+
+* Views
+* Leads
+* Enquiries
+* Bookings
+* Offer performance
+* Conversion rate
+
+### Business Profile
+
+### Listings
+
+### Offers
+
+### Events
+
+### Leads
+
+### Bookings
+
+### Reviews
+
+### Analytics
+
+### Subscription
+
+### Settings
+
+Use charts where meaningful.
+
+---
+
+# 16. ADMIN DASHBOARD
+
+Build a full admin control center.
+
+Dashboard metrics:
+
+* Total users
+* Active businesses
+* New businesses
+* Total listings
+* Total offers
+* Total leads
+* Total bookings
+* Revenue
+* Conversion rate
+
+Include charts and tables.
+
+Admin actions must actually work with the database.
+
+---
+
+# 17. MONETIZATION ARCHITECTURE
+
+Design the platform so it can eventually make money.
+
+Potential revenue models:
+
+### Business subscriptions
+
+Free / Pro / Premium
+
+### Featured listings
+
+Businesses can pay to appear prominently.
+
+### Sponsored offers
+
+### Lead generation fees
+
+### Booking commissions
+
+### Advertising
+
+### Premium promotional campaigns
+
+Do NOT implement fake payment processing.
+
+Create a clean payment abstraction layer so Stripe or another payment provider can be integrated later.
+
+---
+
+# 18. DATABASE ARCHITECTURE
+
+Design a scalable relational database.
+
+Suggested entities:
+
+* users
+* businesses
+* business_categories
+* destinations
+* attractions
+* restaurants
+* hotels
+* activities
+* offers
+* events
+* bookings
+* enquiries
+* leads
+* reviews
+* favorites
+* itineraries
+* itinerary_items
+* subscriptions
+* notifications
+* promotional_campaigns
+
+Create proper relationships, indexes, timestamps, and status fields.
+
+Avoid duplicated data.
+
+---
+
+# 19. CONTENT MANAGEMENT
+
+Admin should be able to manage homepage content without changing code.
+
+Support:
+
+* Featured attractions
+* Featured businesses
+* Featured offers
+* Hero content
+* Collections
+* Events
+* Promotional banners
+
+Structure the application so the homepage can eventually become CMS-driven.
+
+---
+
+# 20. REVIEWS & RATINGS
+
+Allow users to:
+
+* Rate businesses
+* Write reviews
+* Edit/delete their reviews where appropriate
+
+Businesses can view reviews.
+
+Admins can moderate reviews.
+
+Prevent obvious duplicate/spam review behavior.
+
+---
+
+# 21. NOTIFICATIONS
+
+Create notification architecture for:
+
+* New enquiry
+* Booking confirmation
+* Offer expiry
+* Business approval
+* New lead
+* Promotional updates
+
+Start with in-app notifications.
+
+Keep the architecture ready for email/push notifications later.
+
+---
+
+# 22. RESPONSIVE DESIGN
+
+The application MUST work beautifully on:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Do not simply shrink the desktop UI.
+
+Design mobile experiences intentionally.
+
+Mobile navigation should be extremely polished.
+
+---
+
+# 23. PERFORMANCE
+
+Performance is a major requirement.
+
+Implement:
+
+* Lazy loading
+* Image optimization
+* Code splitting
+* Efficient API calls
+* Pagination
+* Debounced search
+* Caching where appropriate
+* Optimized database queries
+* Avoid unnecessary re-renders
+* Skeleton loading states
+
+Target excellent Core Web Vitals.
+
+---
+
+# 24. SEO
+
+Make public pages SEO-friendly.
+
+Implement:
+
+* Semantic HTML
+* Proper metadata
+* Open Graph metadata
+* Dynamic page titles
+* Dynamic descriptions
+* Sitemap architecture
+* Robots configuration
+* SEO-friendly URLs
+* Structured data where appropriate
+
+Examples:
+
+/attractions/burj-khalifa
+
+/businesses/...
+
+/offers/...
+
+/events/...
+
+/destinations/...
+
+---
+
+# 25. ACCESSIBILITY
+
+Follow modern accessibility standards.
+
+Include:
+
+* Keyboard navigation
+* Proper labels
+* Focus states
+* Semantic HTML
+* Alt text
+* Sufficient contrast
+* Screen-reader-friendly components
+
+---
+
+# 26. SECURITY
+
+Implement secure development practices.
+
+Never expose:
+
+* API keys
+* Database credentials
+* Secret keys
+
+Use environment variables.
+
+Implement:
+
+* Authentication
+* Authorization
+* Input validation
+* Server-side validation
+* Rate limiting architecture
+* Secure database queries
+* Protected admin routes
+
+Never trust client-side role checks alone.
+
+---
+
+# 27. TECHNOLOGY
+
+Choose a modern production-ready stack.
+
+Preferred:
+
+### Frontend
+
+React + TypeScript
+
+Use a modern routing solution.
+
+### Styling
+
+Tailwind CSS or another modern utility/component approach.
+
+### Backend
+
+Use a clean API architecture.
+
+### Database
+
+Use PostgreSQL or another relational database appropriate for the platform.
+
+### Validation
+
+Use a schema validation library.
+
+### State management
+
+Use the simplest appropriate architecture.
+
+Do NOT add libraries unnecessarily.
+
+Prefer maintainability over complexity.
+
+---
+
+# 28. COMPONENT ARCHITECTURE
+
+Create reusable components.
+
+Examples:
+
+* Header
+* Footer
+* SearchBar
+* BusinessCard
+* AttractionCard
+* DealCard
+* EventCard
+* CategoryCard
+* Rating
+* ImageGallery
+* FilterPanel
+* MapView
+* Modal
+* Drawer
+* Button
+* Badge
+* Tabs
+* Pagination
+* EmptyState
+* LoadingState
+* ErrorState
+
+Avoid creating giant components.
+
+Use clean separation of concerns.
+
+---
+
+# 29. MOCK DATA
+
+For development, create realistic Dubai-focused seed/mock data.
+
+Do NOT use meaningless placeholder text like:
+
+"Lorem ipsum"
+
+or:
+
+"Business 1"
+
+Create realistic sample data for:
+
+* Attractions
+* Restaurants
+* Hotels
+* Offers
+* Events
+* Activities
+* Businesses
+
+Clearly mark seed/demo data in the code so it can later be replaced by real data.
+
+Do not falsely claim that fictional businesses or offers are real.
+
+---
+
+# 30. UX DETAILS
+
+Every major interaction should have:
+
+* Loading state
+* Success state
+* Error state
+* Empty state
+
+Examples:
+
+When a user saves an attraction:
+
+Show a subtle confirmation.
+
+When search returns nothing:
+
+Show a beautiful empty state with alternative suggestions.
+
+When an API fails:
+
+Show a helpful error message and retry option.
+
+---
+
+# 31. ANIMATIONS
+
+Animations should feel premium.
+
+Use subtle:
+
+* Page transitions
+* Card hover effects
+* Scroll reveal
+* Image transitions
+* Button interactions
+* Modal transitions
+* Navigation transitions
+
+Avoid excessive animation.
+
+The interface should feel **smooth, expensive and intentional**.
+
+---
+
+# 32. MOBILE EXPERIENCE
+
+Mobile users are extremely important.
+
+Create:
+
+* Bottom navigation where appropriate
+* Sticky CTA buttons
+* Swipeable galleries
+* Mobile filters
+* Mobile search
+* Touch-friendly controls
+* Optimized cards
+
+The mobile app should feel almost like a native application even though it is web-based.
+
+---
+
+# 33. ERROR HANDLING
+
+Create proper error boundaries and API error handling.
+
+Never leave the user with:
+
+* Blank screens
+* Broken layouts
+* Raw stack traces
+* Unhandled promise errors
+
+Provide meaningful recovery actions.
+
+---
+
+# 34. TESTING
+
+Testing is mandatory.
+
+Create tests for important functionality.
+
+At minimum test:
+
+* Authentication
+* Search
+* Filters
+* Favorites
+* Itinerary creation
+* Offer creation
+* Business registration
+* Lead creation
+* Role permissions
+* Admin actions
+
+Use an appropriate testing framework.
+
+Also create basic end-to-end tests for the most important user flows.
+
+---
+
+# 35. DEVELOPMENT PROCESS
+
+IMPORTANT:
+
+Do NOT attempt to blindly generate the entire application in one giant implementation step.
+
+Work systematically.
+
+### PHASE 1
+
+Create:
+
+* Project architecture
+* Design system
+* Global styles
+* Routing
+* Homepage
+* Public discovery pages
+* Reusable UI components
+* Responsive layouts
+
+### PHASE 2
+
+Create:
+
+* Database
+* Authentication
+* User system
+* Business system
+* Listings
+* Offers
+* Events
+
+### PHASE 3
+
+Create:
+
+* User dashboard
+* Business dashboard
+* Leads
+* Enquiries
+* Favorites
+* Itinerary
+
+### PHASE 4
+
+Create:
+
+* Admin dashboard
+* CMS-like content management
+* Analytics
+* Moderation
+
+### PHASE 5
+
+Create:
+
+* SEO
+* Performance optimization
+* Accessibility
+* Testing
+* Security review
+* Production readiness
+
+After each phase, verify that the existing application still works.
+
+---
+
+# 36. IMPORTANT DEVELOPMENT RULE
+
+Do NOT destroy or unnecessarily rewrite working code.
+
+Before modifying existing functionality:
+
+1. Understand the current architecture.
+2. Identify dependencies.
+3. Make the smallest clean change.
+4. Test the affected functionality.
+5. Ensure existing features still work.
+
+Avoid technical debt.
+
+---
+
+# 37. DESIGN QUALITY BAR
+
+Before considering any UI complete, ask:
+
+**Would this look embarrassing next to a world-class Dubai tourism product?**
+
+If yes, improve it.
+
+The interface should feel:
+
+**Premium. Cinematic. Modern. Elegant. Fast. Confident. Futuristic.**
+
+Not:
+
+**Generic. Template-like. Cheap. Over-designed.**
+
+---
+
+# 38. DO NOT DO THESE THINGS
+
+Do NOT:
+
+* Create a generic Bootstrap website
+* Copy existing websites
+* Use random stock images everywhere
+* Use lorem ipsum
+* Use fake functionality
+* Create buttons that do nothing
+* Create fake analytics
+* Hard-code sensitive credentials
+* Build only the frontend and call it complete
+* Ignore mobile
+* Ignore accessibility
+* Ignore error states
+* Ignore loading states
+* Create unnecessarily complicated architecture
+* Add dependencies without justification
+* Leave TODOs for core functionality
+
+---
+
+# 39. PRODUCT FEEL
+
+The user should feel:
+
+### First 3 seconds
+
+**"Damn, this looks premium."**
+
+### After exploring
+
+**"This is actually useful."**
+
+### After using the platform
+
+**"I can plan my entire Dubai experience here."**
+
+### Business owner reaction
+
+**"I want my business listed here."**
+
+### Investor/government reaction
+
+**"This could become a major Dubai digital platform."**
+
+---
+
+# 40. FINAL ACCEPTANCE CRITERIA
+
+Do not consider the project complete merely because it compiles.
+
+The final application must:
+
+* Look premium
+* Work on mobile
+* Work on desktop
+* Have clean architecture
+* Have functional navigation
+* Have functional forms
+* Have functional authentication architecture
+* Have database integration
+* Have role-based access
+* Have realistic seed data
+* Have search
+* Have filters
+* Have listings
+* Have offers
+* Have events
+* Have businesses
+* Have leads
+* Have enquiries
+* Have favorites
+* Have itinerary functionality
+* Have user dashboard
+* Have business dashboard
+* Have admin dashboard
+* Have error states
+* Have loading states
+* Have empty states
+* Have tests
+* Have SEO foundations
+* Have accessibility foundations
+* Have security foundations
+* Be deployment-ready
+
+---
+
+# 41. MOST IMPORTANT INSTRUCTION
+
+Do not optimize for:
+
+**"How quickly can I generate a website?"**
+
+Optimize for:
+
+**"How can I create the beginning of a world-class Dubai digital ecosystem?"**
+
+Think like a team consisting of:
+
+* Product Manager
+* Principal Engineer
+* Senior UX Designer
+* Brand Designer
+* Backend Architect
+* Security Engineer
+* QA Engineer
+
+Build with that level of discipline.
+
+The final result should be something that can evolve from an MVP into a serious commercial platform.
+
+And above everything:
+
+# 🇦🇪 MAKE DUBAI LOOK ABSOLUTELY EXTRAORDINARY.
+
+The application should make people say:
+
+**"Dubai ko promote karna ho to aisa karte hain."**
+
+Build something that makes Dubai feel not just like a destination...
+
+but like an **experience people desperately want to be part of.**
+
+Now begin by inspecting the project environment, choosing the appropriate architecture, and creating the initial foundation. Do not ask unnecessary questions. Make sensible product and technical decisions yourself and proceed systematically.
