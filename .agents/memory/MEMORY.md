@@ -1,0 +1,1 @@
+- [Authentication foundation](auth-foundation.md) — Clerk is the shared identity layer for Expo users and the Express API.
